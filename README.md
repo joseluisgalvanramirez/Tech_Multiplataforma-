@@ -61,3 +61,6 @@ https://joseluisgalvanramirez.github.io/Tech_Multiplataforma-/
 **Jose Luis Galvan Ramirez**  
 Proyecto académico  
 2026
+
+
+
