@@ -53,5 +53,11 @@ Desarrollar una página web estructurada profesionalmente utilizando:
 ## 🌐 Publicación en GitHub Pages
 https://joseluisgalvanramirez.github.io/Tech_Multiplataforma-/
 
-Una vez publicado, el proyecto estará disponible en:
-https://joseluisgalvanramirez.github.io/Tech_Multiplataforma-/
+
+---
+
+## 👨‍💻 Autor
+
+**Jose Luis Galvan Ramirez**  
+Proyecto académico  
+2026
